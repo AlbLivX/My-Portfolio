@@ -35,7 +35,7 @@ VSCode
 GitHub Pages (Deployment)
 
 live-vorschau 🔗
-📍 latifahal.github.io/My-Portfolio
+📍 https://alblivx.github.io/My-Portfolio/
 
 ps:
 wenn du bis hierher gelesen hast, danke! 🙏
